@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Montagnoli08 I´m Brazilian, and i have 35age
-- 👀 I’m interested in learning and reading
+- 👀 I’m interested in learning 
 - 😄 Pronouns: All the pronouns
 <!---
 Montagnoli08/Montagnoli08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
